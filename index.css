@@ -1,0 +1,7 @@
+h3 {
+    margin: 1em;
+    border: 1px dashed rgb(165, 49, 49);
+    padding: .25em;
+    width: 6.5em;
+    color: rgb(33, 37, 56);
+}
